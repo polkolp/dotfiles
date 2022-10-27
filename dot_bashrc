@@ -121,7 +121,7 @@ alias ll="ls -lah"
 alias wv="wslview"
 alias dc="cd"
 alias cz="chezmoi"
-alias gl="git log --all --graph --decorate"
+# alias gl="git log --all --graph --decorate"
 
 # man page coloring
 export LESS_TERMCAP_mb=$'\e[1;32m'

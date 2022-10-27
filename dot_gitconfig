@@ -1,0 +1,9 @@
+[user]
+	email = tonyyty@gmail.com
+	name = polkolp
+[alias]
+	lg = log --graph --all --decorate 
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
